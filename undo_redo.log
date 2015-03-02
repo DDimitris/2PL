@@ -1,0 +1,2 @@
+
+<START T1><T1 , X , 1 , 2><T1 , Y , 1 , 2><COMMIT T1><START T2><T2 , A , 1 , 2><START T3><T3 , B , 1 , 2><T3 , X , 2 , 3><COMMIT T3><ABORT T2>
